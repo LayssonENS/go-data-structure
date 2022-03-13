@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // BinarySearchTree nó da árvore de pesquisa binária
 type BinarySearchTree struct {
